@@ -6,5 +6,5 @@ ghcr.io/open-webui/open-webui:main
 php:8.1.0RC4-fpm-buster
 php:8.1.0RC5-fpm-buster
 nginx:1.21.6
-mysql:8.0.29-oracl
+mysql:8.0.29-oracle
 php:8.1.0
